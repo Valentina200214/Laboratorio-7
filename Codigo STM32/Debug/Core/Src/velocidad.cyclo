@@ -1,0 +1,4 @@
+../Core/Src/velocidad.c:35:6:vel	1
+../Core/Src/velocidad.c:40:6:calculo_rpm	4
+../Core/Src/velocidad.c:68:6:conversor	3
+../Core/Src/velocidad.c:78:6:conversor_mm_s	2

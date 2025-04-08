@@ -1,0 +1,6 @@
+../Core/Src/comunicacion.c:26:6:datos_enviar	64	static
+../Core/Src/comunicacion.c:129:6:EnviarPaquete	24	static
+../Core/Src/comunicacion.c:140:8:serializarPaquete	32	static
+../Core/Src/comunicacion.c:157:9:calcularCRC	24	static
+../Core/Src/comunicacion.c:165:6:CDC_ReceiveCallBack	16	static
+../Core/Src/comunicacion.c:170:6:instruction	8	static

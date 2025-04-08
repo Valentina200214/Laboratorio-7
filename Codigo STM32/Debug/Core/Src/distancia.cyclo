@@ -1,0 +1,4 @@
+../Core/Src/distancia.c:41:6:promedio_adc	5
+../Core/Src/distancia.c:64:6:calculo_mm	1
+../Core/Src/distancia.c:71:7:interpolar_distancia	6
+../Core/Src/distancia.c:95:6:control_distancia	6

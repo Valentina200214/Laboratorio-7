@@ -1,0 +1,6 @@
+../Core/Src/comunicacion.c:26:6:datos_enviar	1
+../Core/Src/comunicacion.c:129:6:EnviarPaquete	1
+../Core/Src/comunicacion.c:140:8:serializarPaquete	5
+../Core/Src/comunicacion.c:157:9:calcularCRC	2
+../Core/Src/comunicacion.c:165:6:CDC_ReceiveCallBack	1
+../Core/Src/comunicacion.c:170:6:instruction	11
